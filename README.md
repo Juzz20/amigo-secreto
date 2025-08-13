@@ -33,6 +33,3 @@ La aplicación permite:
 - HTML5
 - CSS3
 - JavaScript
-
----
-✍️ Desarrollado por *[Tu nombre]*
